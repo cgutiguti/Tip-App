@@ -1,6 +1,6 @@
 # Project 1 - *Tip App*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip App** is a tip calculator application for iOS.
 
 Submitted by: **Carmen Gutierrez**
 
